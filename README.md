@@ -6,6 +6,7 @@
 ## Diffusion
 1. [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
 2. [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix)
+3. [On Distillation of Guided Diffusion Models](https://arxiv.org/pdf/2210.03142.pdf)
 
 ## Parallelism
 1. [GPipe:  Easy Scaling with Micro-Batch Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
